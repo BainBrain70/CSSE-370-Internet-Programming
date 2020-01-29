@@ -1,0 +1,18 @@
+#myHeader{
+background-color: blue;
+color: white;
+text-align: center;
+font-family: "Times New Roman", Times;
+}
+.main{
+font-size: 25px;
+}
+.subMain{
+font-size: 18px;
+
+}
+.mainImg{
+display: block;
+margin-right: auto;
+margin-left auto;
+}
