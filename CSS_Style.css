@@ -6,13 +6,40 @@ font-family: "Times New Roman", Times;
 }
 .main{
 font-size: 25px;
+color: blue;
 }
 .subMain{
 font-size: 18px;
+color: green;
 
 }
 .mainImg{
 display: block;
 margin-right: auto;
-margin-left auto;
+margin-left: auto;
+}
+
+.sidebar{
+height: 100%;
+top: 0;
+left: 0;
+position: fixed;
+width: 200px;
+height: 500px;
+background-color: Green;
+padding: 30px 30;
+}
+.sidebar h2{
+	color: white;
+	text-align: center;
+}
+.sidebar u1{
+	color: black;
+	font-style: normal;	
+}
+.sidebar u1 li a{
+	color: white;
+}
+a:hover{
+	color: green;
 }
