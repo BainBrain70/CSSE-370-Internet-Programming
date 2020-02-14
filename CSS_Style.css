@@ -3,6 +3,7 @@ background-color: blue;
 color: white;
 text-align: center;
 font-family: "Times New Roman", Times;
+padding: 20px:
 }
 .main{
 font-size: 25px;
@@ -17,12 +18,14 @@ color: green;
 display: block;
 margin-right: auto;
 margin-left: auto;
+max-width: 100%;
 }
 
-.secondImg{
+.secondImg{  
 display: block;
 margin-right: auto;
 margin-left: auto;
+max-width: 100%
 }
 
 .sidebar{
@@ -34,6 +37,8 @@ width: 200px;
 height: 500px;
 background-color: Green;
 padding: 30px 30;
+max-height:100%;
+max-width:100%;
 }
 .sidebar h2{
 	color: white;
