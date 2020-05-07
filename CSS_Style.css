@@ -5,6 +5,12 @@ text-align: center;
 font-family: "Times New Roman", Times;
 padding: 20px:
 }
+#Candle{
+border: 5px solid black;
+height: 100px;
+width: 100px;
+}
+
 .main{
 font-size: 25px;
 color: blue;
@@ -15,6 +21,7 @@ color: green;
 
 }
 .mainImg{
+border: 5px black;
 display: block;
 margin-right: auto;
 margin-left: auto;
