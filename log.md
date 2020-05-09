@@ -15,13 +15,14 @@ Project Phase #3
 
 Project Phase #4
 1)The "Click Me" Button will display an image that is styled by the Css page with a 5px black boarder 
-2)The 3 links in the bottom center of the screen will trun green if you mouse over them
+2) The picture does not dissapear when you click it, I was unable to include that functionality.
+3)The 3 links in the bottom center of the screen will trun green if you mouse over them
 
 Project Phase #5
 1)Then Andi tool does not return any erros, a screen shot is located in repositroy in the file titled ANDI
 
 Project Phase #6
-1)Below the Click me button the current weather is displayed on a button that, when clicked will disply 
+1)Below the Click me button the current weather is displayed on a button that, when clicked, will disply the
 daily low temperature for the day. I had tried to interface with a stock related API called AlphaVantage but was unsucessul in 
 retrieving the data, so I went with a generic weather API that I had used before and knew that it worked. 
 
@@ -31,5 +32,8 @@ Project Phase #7
 Project Phase #8
 1)The button Labeled React is just below the API button on my sidebar and will load react object to the screen. 
 
+Additional Notes: I addressed the comments that you left on the first few Project Phases and corrected the errors that you indicated. 
+I am hoping that I can get some of the points back that I lost on the first few project Phases. Over all I did my best to torubleshoot 
+the errors and complete the Project Phase objectives as close to the specifications as possible.
 
 
