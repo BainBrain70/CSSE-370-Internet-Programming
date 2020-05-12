@@ -34,6 +34,6 @@ Project Phase #8
 
 Additional Notes: I addressed the comments that you left on the first few Project Phases and corrected the errors that you indicated. 
 I am hoping that I can get some of the points back that I lost on the first few project Phases. Over all I did my best to torubleshoot 
-the errors and complete the Project Phase objectives as close to the specifications as possible.
+the errors and complete the Project Phase objectives as close to the specifications as possible. Also I sent you an email,showing that i did complete project 3 I just forgot to upload the screen shot of it to github.
 
 
